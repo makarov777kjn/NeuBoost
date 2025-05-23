@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 22px;
+  color: #ffffff;
+  background-color: #000000;
+  font-family: "Dela Gothic One", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+h1 {
+  width: 255px;
+  margin: 0 auto 8px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 65px;
+  line-height: 73px;
+  color: #000000;
+  
+}
+
+h2 {
+  border-bottom: 2px solid #000000;
+  padding-bottom: 12px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.site-header {
+  min-width: 700px;
+  height: 250px;
+  margin-bottom: 70px;
+  padding-top: 30px;
+  background: #1eff00 no-repeat center url("img/gradient_1000_500.png");
+  background-size: cover;
+  color: #000000;
+}
+
+.site-header p {
+  width: 255px;
+  margin: 0 auto 26px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px; 
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  width: 510px;
+  margin: 0 auto 30px;
+  padding: 0 20px;
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+
+.feature-furniture {
+  padding-top: 180px;
+  background-image: url("img/Vending.jpg");
+}
+
+.feature-lighting {
+  padding-top: 180px;
+  background-image: url("img/Coffe.jpg");
+}
+
+.feature-accessories {
+  padding-top: 180px;
+  background-image: url("img/Shop.jpg");
+}
+
+.advantages {
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  padding: 0;
+  list-style: none;  
+}
+
+.advantages-item {
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 20px solid #ff00f2;
+  color: #ffffff;
+}
+
+.standard {
+  border-color: #3cff00;
+  color: #ffffff;
+}
+
+.vip {
+  border-color: #002fff;
+  color: #ffffff;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #ff00ea;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+
+
